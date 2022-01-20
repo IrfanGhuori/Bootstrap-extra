@@ -2075,10 +2075,5 @@ $(".text-limit").each(function() {
     }
 }), $(".morelink").click(function() {
     return $(this).hasClass("less") ? ($(this).removeClass("less"), $(this).html(moretext)) : ($(this).addClass("less"), $(this).html(lesstext)), $(this).parent().prev().toggle(), $(this).prev().toggle(), !1
-}), "serviceWorker" in navigator && window.addEventListener("load", function() {
-    navigator.serviceWorker.register("js/sw.js").then(function(t) {
-        console.log("ServiceWorker registration successful with scope: ", t.scope)
-    }, function(t) {
-        console.log("ServiceWorker registration failed: ", t)
-    })
+
 });
