@@ -41,12 +41,14 @@ IrfanGhuori@yandex.com
 
 
 
-## Backers
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/Bootstrap-extra#backer)]
+## Contributors
+Thank you to all our backers!  [[Become a backer](https://opencollective.com/Bootstrap-extra#backer)]
 [![Backers](https://opencollective.com/Bootstrap-extra/backers.svg?width=890)](https://opencollective.com/Bootstrap-extra#backers)
-![alt text](https://www.advertisementshop.com/img/contributors.svg)
 
-![Slack](https://img.shields.io/badge/MIT-License-green) ![Slack](https://img.shields.io/badge/plugin-9-blue) ![Slack](https://img.shields.io/badge/rating%20count-6%20total-yellowgreen) ![Slack](https://img.shields.io/badge/release-v4.16.4-blue)
+
+<a href="CODE_CONTRIBUTORS.md"><img src="https://opencollective.com/swiper/contributors.svg?width=890&button=false" /></a>
+
+![Slack](https://img.shields.io/badge/MIT-License-green) ![Slack](https://img.shields.io/badge/plugin-9-blue) ![Slack](https://img.shields.io/badge/rating%20count-6%20total-yellowgreen) 
 
 
 
